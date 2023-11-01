@@ -1,6 +1,5 @@
 # Olá! Meu nome é Stenio Ribeiro Ignácio
 <div>
-    <h2>💻 Trabalho com o time Cybersecurity na Jacto! 🍀</h2>
     <h2>Atualmente estudo para área de dados com pretenção em atuar nela! 🎲</h2>
     <h2>Segue meu e-mail e linkedin para contato ✉️📬</h2>
 </div>
