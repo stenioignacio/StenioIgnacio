@@ -1,6 +1,6 @@
 # Olá! Meu nome é Stenio Ribeiro Ignácio
 <div>
-    <h2>Estudando o mundo dos 🎲!</h2>
+    <h2>Progress ⌛</h2>
     <h2>E-mail e linkedin para contato 📬</h2>
 </div>
 
