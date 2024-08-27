@@ -10,8 +10,7 @@
 
 ## About me
 
-I'm a Cloud Analyst today. I'm always looking for new challenges and opportunities to learn and grow DevOps. /n
-Technology enthusiast, and I'm always looking for new things to learn and improve my skills.
+I'm a Cloud Analyst today. I'm always looking for new challenges and opportunities to learn and grow DevOps.
 
 ## Skills
 
