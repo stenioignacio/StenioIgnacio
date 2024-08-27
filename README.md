@@ -14,10 +14,6 @@
 I'm a Cloud Analyst today. I'm always looking for new challenges and opportunities to learn and grow DevOps. /n
 Technology enthusiast, and I'm always looking for new things to learn and improve my skills.
 
-## Get in touch
-
-[![Linkedin](https://img.shields.io/badge/-Leonardo%20Medeiros%20de%20Mello%20Jr-00000?style=for-the-badge&logo=linkedin&logoColor=white&label=Linkedin&labelColor=1560BD&color=000000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleonardommello%2F)]([https://www.linkedin.com/in/leonardommello/](https://www.linkedin.com/in/st%C3%AAnio-ign%C3%A1cio-690870231/))
-
 ## Skills
 
 ```python
