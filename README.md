@@ -21,7 +21,7 @@ Technology enthusiast, and I'm always looking for new things to learn and improv
 ## Skills
 
 ```python
-class Leonardo:
+class Stenio:
     def __init__(self):
         self.name = "Stenio Ribeiro Ignácio"
         self.role = "Cloud Analyst & DevOps"
