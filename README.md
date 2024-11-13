@@ -21,6 +21,9 @@ class Stenio:
         self.role = "Cloud Analyst & DevOps"
         self.location = "Tupã - SP, Brazil"
         self.skills = {
+            "Amazon Web Services": ["Intermediate", "Architect"]
+            "Google Cloud Platform": ["Begineer", "Architect"]
+            "Golang": ["Beginner", "Scripting"]
             "Python": ["Beginner", "Automation", "Scripting"],
             "Docker": ["Intermediate", "Containerization", "Orchestration"],
             "Kubernetes": ["Beginner", "Containerization", "Orchestration"],
@@ -39,3 +42,6 @@ class Stenio:
     def get_info(self):
         return self.name, self.role, self.location, self.skills, self.knowledge, self.interests, self.languages
 ```
+[<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />][Practitioner]
+
+[Practitioner]: https://www.credly.com/earner/earned/share/457348c5-45bb-4e33-a027-9d5b67eac26c
