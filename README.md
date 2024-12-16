@@ -44,4 +44,7 @@ class Stenio:
 ```
 [<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />][Practitioner]
 
+[<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />][Solutions Architect Associate]
+
 [Practitioner]: https://www.credly.com/earner/earned/share/457348c5-45bb-4e33-a027-9d5b67eac26c
+[Solutions Architect Associate]: https://www.credly.com/badges/e44d849b-43f5-4a84-9e9b-a0ec51c6ed85
