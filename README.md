@@ -18,7 +18,7 @@ I'm a Cloud Analyst today. I'm always looking for new challenges and opportuniti
 class Stenio:
     def __init__(self):
         self.name = "Stenio Ribeiro Ignácio"
-        self.role = "Cloud Analyst & DevOps"
+        self.role = "DevOps & FinOps"
         self.location = "Tupã - SP, Brazil"
         self.skills = {
             "Amazon Web Services": ["Intermediate", "Architect"]
