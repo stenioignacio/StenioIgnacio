@@ -18,20 +18,21 @@ I'm a Cloud Analyst today. I'm always looking for new challenges and opportuniti
 class Stenio:
     def __init__(self):
         self.name = "Stenio Ribeiro Ignácio"
-        self.role = "DevOps & FinOps"
+        self.role = "DevOps"
         self.location = "Tupã - SP, Brazil"
         self.skills = {
-            "Amazon Web Services": ["Intermediate", "Architect"]
+            "Amazon Web Services": ["Intermediate", "Architect","Developer"]
             "Google Cloud Platform": ["Begineer", "Architect"]
             "Golang": ["Beginner", "Scripting"]
             "Python": ["Beginner", "Automation", "Scripting"],
             "Docker": ["Intermediate", "Containerization", "Orchestration"],
-            "Kubernetes": ["Beginner", "Containerization", "Orchestration"],
-            "Terraform": ["Beginner", "IaC", "Automation"],
+            "Kubernetes": ["Intermediate", "Containerization", "Orchestration"],
+            "Terraform": ["Intermediate", "IaC", "Automation"],
             "Bash": ["Intermediate", "Automation", "Scripting"],
             "Powershell": ["Intermediate", "Automation", "Scripting"],
             "Git": ["Intermediate", "Version Control", "Collaboration"],
             "CI/CD": ["Beginner", "Automation"]
+            "Observability": ["Begineer", "Logging", "Trace"]
         }
         self.knowledge = ["Cloud", "DevOps", "Automation", "IaC", "CI/CD", "Monitoring",  "Containers", "Orchestration"]
         self.languages = {
@@ -42,9 +43,11 @@ class Stenio:
     def get_info(self):
         return self.name, self.role, self.location, self.skills, self.knowledge, self.interests, self.languages
 ```
+
+[<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" />][Cloud Engineer Associate]
+[<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />][Solutions Architect Associate]
 [<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />][Practitioner]
 
-[<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />][Solutions Architect Associate]
-
+[Cloud Engineer Associate]: https://www.credly.com/badges/17bb1fc6-1b5f-48e2-b8e6-5305271e46db
 [Practitioner]: https://www.credly.com/earner/earned/share/457348c5-45bb-4e33-a027-9d5b67eac26c
 [Solutions Architect Associate]: https://www.credly.com/badges/e44d849b-43f5-4a84-9e9b-a0ec51c6ed85
